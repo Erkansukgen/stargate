@@ -4881,10 +4881,10 @@ hardhat-contract-sizer@^2.1.1:
     chalk "^4.0.0"
     cli-table3 "^0.6.0"
 
-hardhat-deploy-ethers@^0.3.0-beta.12:
-  version "0.3.0-beta.13"
-  resolved "https://registry.npmjs.org/hardhat-deploy-ethers/-/hardhat-deploy-ethers-0.3.0-beta.13.tgz"
-  integrity sha512-PdWVcKB9coqWV1L7JTpfXRCI91Cgwsm7KLmBcwZ8f0COSm1xtABHZTyz3fvF6p42cTnz1VM0QnfDvMFlIRkSNw==
+hardhat-deploy-ethers@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/hardhat-deploy-ethers/-/hardhat-deploy-ethers-0.4.2.tgz#10aa44ef806ec8cf3d67ad9692f3762ed965b5e7"
+  integrity sha512-AskNH/XRYYYqPT94MvO5s1yMi+/QvoNjS4oU5VcVqfDU99kgpGETl+uIYHIrSXtH5sy7J6gyVjpRMf4x0tjLSQ==
 
 hardhat-deploy@^0.9.19:
   version "0.9.29"
